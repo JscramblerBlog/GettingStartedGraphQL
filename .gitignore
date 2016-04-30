@@ -1,0 +1,12 @@
+﻿*.suo
+.vs/
+*.DotSettings.user
+
+[Oo]bj/
+*.dll
+
+node_modules
+web.config
+
+tsd.json
+typings/

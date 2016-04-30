@@ -1,0 +1,10 @@
+﻿{
+  "name": "getting-started-graph-ql",
+  "version": "0.0.1",
+  "description": "GettingStartedGraphQL",
+  "main": "app.js",
+  "author": {
+    "name": "CR",
+    "email": "reyesc@gmail.com"
+  }
+}
