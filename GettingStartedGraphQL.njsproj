@@ -33,6 +33,7 @@
     <Compile Include="app.js" />
     <Compile Include="graphql\schema.js" />
     <Compile Include="tests\schema.test.js" />
+    <Compile Include="tests\validation.test.js" />
     <Content Include="graphql\data.json" />
     <Content Include="package.json" />
     <Content Include="readme.md" />
